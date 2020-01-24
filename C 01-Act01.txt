@@ -1,0 +1,132 @@
+﻿# ¡ Acerca de la información de las nubes !
+En este momento hablariamos de forma general de las nubes, de los cuales son puntos importantes para tener conocimiento basico. A continuación daremos un pequeño introducción respecto al tema:
+	
+								  INTRODUCCION
+							  
+		   En teoria del tema ¿Qué es la nube?, nos preguntamos a nosotros 					     
+		   mismos, la nube podria significar, es una forma metafóra de 	
+		   nombrar a internet, realmente se hablaba por esos terminos. 
+		   Ahora en la actualidad es algo basicamente, en el manejo de las
+		   nubes consiste servicios, almacenamiento,uso de aplicaciónes,
+		   correo electronico, etc. Más adelante le hablaremos de eso.
+		   Para finalizar, en los conceptos basicos vamos a explicar 
+		   con detalle 2 puntos importantes, que son: Normalmente en 
+		   como es el servicio y representacion de la infraestructura 
+		   de servidores (es llamado recursos). Antes de dar el desarrollo,
+		   quiero dar conocer los temarios del titulo ¡Acerca de la 		
+		   información de las nubes!.
+		   
+## Temario
+
+ 1. ¿Qué es la nube?
+ 2. ¿Como funciona la nube?
+ 3. ¿Cuales son los modelos de servicios?
+ 4. ¿Cuales son los metodos de despliegue?
+ 5. Diferencias entre cloud computing y virtualización. 
+ 6. Famosas nubes que existen.
+ 7. Caracteristicas de la nube. 
+ 8. Ventajas y Desventajas de la nube.
+ 
+    **Acontinuación, lea detalladamente los puntos interesante que usted necesite, espero sea util.**
+    
+   ## Conceptos basicos de los temarios 
+	    
+						Tema: 		¿Qué es la nube?
+
+Acerca con mas información de las nubes, vamos a conocer lo mas importante del tema.
+
+ - Normalmente son servicios accesibles por internet mediante un navegador que permite almacenar, acceder datos, procesos de información y programas, como su nombre lo dice que es a través del internet usado, en lugar del disco duro de su computadora que va ocupar un espacio de memoria.
+ - Representaciones de la infraestructura de servidores de internet, vamos a conocer 2 tipos de recurso:
+ 
+        * Recurso informatico.
+        * Recurso distribuido accesibles.
+        
+	**Recurso Informatico:** En terminos separados recurso - informatico.
+	
+	Informatico (Software): Son aplicaciones, herramientas, dispositivo(periféricos) y capacidades con lo que cuenta una computadora. Por ejemplo: La memoria, la capacidad de almacenamiento  e incluso la CPU con la que cuenta una computadora.
+	
+	Recurso libre (Hardware): Es la capacidad que cuenta una computadora en un determinado momento. Por ejemplo: El recurso de memoria RAM es un determinado momento que puede ser de 450MB de un total de memoria de 1GB.
+	
+	**Recurso distribuido accesibles:** En terminos de sistemas distribuido.
+
+	Sistema Distribuido: Hay dos tipos que pueden compartir los recursos.
+	Recursos de **hardware** como impresoras, unidades de almacenamiento, etc. 
+	Recursos de **software** archivos base de datos, objetos, entre otros.
+
+	Ejemplo: Buscadores de Intenet y Juegos Online (Para más información te deje el link en la bibliografia.)
+	
+							¿Como funciona la nube?
+								
+	Cuando pueden ser almacenamiento de la nube, los servidores que son fisicamente, es conectado con las redes virtuales, para poder hacer cualquier uso (software de gestion, automatización y virtualiza, y coordina el almacenamiento) y asi de manera que puedes acceder a tus datos rapida y facilmente. Más información de otros tipos de almacenamiento, te lo comparto en la bibliografia.
+							
+					¿Cuáles son sus modelos de servicios?		
+	
+	Lo mas importante que se toma en cuenta en los modelos de servicios, son: 
+
+ - **SaaS:** Software como servicio.
+ - **PaaS:** Plataforma como servicio.
+ - **IaaS:** Infraestructura como servicio.
+
+						¿Cuáles son sus metodos de despliegue?
+						
+	Lo más importante que se considera en los metodos de despliegue, son:
+
+ - **Nube publica.**
+ - **Nube privada.**
+ - **Nube híbrida.**
+ - **Nube de comunidad.**
+ - **Nube privada virtual.**
+ - **Intercloud.**
+ - **Multicloud.**
+
+					Diferencia entre cloud computing y virtualización
+	
+
+ - **Cloud Computing:** Prestación de servicios de procesamiento y almacenamiento de datos e información en servidores remotos a tráves de internet y a los cuales se puede acceder desde cualquier dispositivo de online.
+ - **Virtualización:** Es puramente la creación, mediante un determinado software de una versión virtual de uno o varios recursos tecnologicos.
+
+								Famosas nubes que existen
+	
+
+ - Dropbox.
+ - Sugarsync.
+ - Fiabee.
+ - Skydrive.
+ - Zyncro.
+ - Spideroak.
+ - Opendrive.
+ - Ubuntu one.
+ - Memopal.
+
+							Caracteristicas de la nube
+							
+	Se basa en tecnología a través de internet. Para ser mas precisos, el modelo de prestación de servicios de tecnología a través de internet, son caracterizado por: Accesibilidad, Ecalabilidad, Soporte (El almacenamiento que puede tener la nube). , Facil de manejo, Integración y Seguridad (En esta parte, si considerabas que era una caracteristica, te menciono que no, porque cada uno el usuario es responsable en usar la nube y manajar los datos estan almacenado).
+								
+							Ventajas y Desventajas de la nube
+	Ventajas: 
+	
+ - Acceso a cualquier sitio y con varios dispositivos.
+ - Ahorra tanto en el software y hardware, como mantenimiento tecnico.
+ 
+	 Desventaja: 
+	 
+ - Falta de seguridad y privacidad.
+ - Sin Internet no hay nube.
+							
+## Conclusión
+
+Finalizando los temas más claro, entiendo que es un tema muy extenso, pero por lo con siguiente es muy basico. Explicare en forma general los servicios de almacenamiento, por lo tanto en este momento hay que recordar que las necesidades de almacenamiento que tenemos y la utilidad que le vamos a dar, todo es a trávez del internet, como se habian mencionado, sin internet, no podemos trabajar por ejemplo proyectos, archivos (Almacenamiento) o ver la virtualización (Creación de instancias) de la cual deseamos manipular los trabajos dentro de la virtualización. 
+
+Objetivo principal: Es procesar y almacenar en la nube todo el contenido que desee el usuario hasta el limite de su cuenta, de modo que podamos acceder a él desde cualquier lugar con conexión a internet, sin la necesidad de depender de un dispositivo fisico, donde poder almacenar los procesos  que se esta realizando, como cada servicio comprueba que ofrece en la nube, hay que saber usarla y poder realizar los pasos para poder tener una instancia de virtualización o ocupar en un almacenamiento en las nubes y saber sus propias caracteristicas, ventajas y sus inconvenientes. Tambien menciono que hay dos tipos servicios( es una creación de instancia y manipular una virtualización) y almacenamiento (es por ejemplo: mega, google drive y entre otras que se mencionarón).
+
+
+## Bibliografia
+
+ - [https://www.powerdata.es/cloud](https://www.powerdata.es/cloud) 
+ - (Recursos informaticos) [https://es.slideshare.net/locobest/recursos-informticos-27684279](https://es.slideshare.net/locobest/recursos-informticos-27684279) 
+ - (Sistema Distribuido): [https://github.com/pgaleas/CURSO-PRODIST/wiki/2.-%C2%BFQu%C3%A9-es-un-Sistema-Distribuido%3F](https://github.com/pgaleas/CURSO-PRODIST/wiki/2.-%C2%BFQu%C3%A9-es-un-Sistema-Distribuido%3F)
+ - (Tipos de almacenamiento): [https://www.redhat.com/es/topics/data-storage](https://www.redhat.com/es/topics/data-storage)
+ - (Ventajas y Desventajas): [https://sites.google.com/site/webquestaprendizajeenlanube/introduccion/conclusion-sobre-la-nube-infoirmatica/ventajas-y-desventajas-sobre-la-nube-informatica](https://sites.google.com/site/webquestaprendizajeenlanube/introduccion/conclusion-sobre-la-nube-infoirmatica/ventajas-y-desventajas-sobre-la-nube-informatica)
+ - (Definiciones de modelo de servicios y modelos de despliegue): [https://www.powerdata.es/cloud](https://www.powerdata.es/cloud)
+ - (Diferencia entre cloud computing y virtualización): [https://enetic.es/actualidad/virtualizacion-vs-cloud-computing-en-que-se-diferencian/](https://enetic.es/actualidad/virtualizacion-vs-cloud-computing-en-que-se-diferencian/)
+
